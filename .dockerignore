@@ -1,0 +1,9 @@
+.venv
+.git
+.github
+airflow
+k8s
+tests
+__pycache__
+.pytest_cache
+data
